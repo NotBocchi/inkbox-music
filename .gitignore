@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+
+src-tauri/target
+src-tauri/gen/android
+
+.env
+.env.local
+
+*.log
+.DS_Store
+Thumbs.db
